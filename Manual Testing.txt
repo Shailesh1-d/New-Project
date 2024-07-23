@@ -1,0 +1,73 @@
+What is software?
+-A software is a collection of program that helps us to perform task.
+-the language which is understandable by the computer is called program.
+System Software-Device drives,Operating System,Utilities
+Programming Software-Compiler,Interpreter,Debugger
+
+What is Software Testing?
+-A software testing is a part of software development process.
+-Software testing is an activity to detect and identify the defects in the software.
+-The objective of software testing is to delivered quality product to the client.
+
+
+1-BugFree
+2-Delivered on time
+3-Budget
+4-Meets requirement/expectation
+4-Maintainable
+
+Our software should not have any bugs or defects.
+100% software will not be bugfree or defect free
+there should be 1or 2% bug/minor bugs
+the customer will not be impacted by those bugs.
+
+If we are delivered the software in time or within time that is also considerable.
+If we are not delivered the software in time its our resposibility to pay more money to employee .
+
+Whatever the budget and time should decide at the beginning phase according to that we should delivered the software.
+
+Whatever the software will develop that should fullfill the requirement of customer.
+After installing the software in customer environment they should able to work with that if any small issue they are facing they should able to solve.
+
+
+PROJECT VS PRODUCT
+
+If S/W application is developed for specific customerbased on the requirement then it is called project.
+For ex- I developed a software for an organisation and only that orgranisation can be used that s/w other organisation can not be used those things called projrect.
+
+If S/W application is developed based on the market requirement then it is called product.
+For ex-Google,Microsoft.
+
+Suppose as a developer is writing some program and by mistake he has write something else and that causing a error .
+Basically Error is a human mistake.
+
+
+Bug is nothing but it is a deviation of actual and expected result.
+For ex- There is a login page.
+             So when we provide a valid username and password i should able to login to my application.
+             If when we provide incorrect username and passoword i should not able to login but what happenning              application allow me to login.
+
+Suppose we have developed some software.
+We have tested and everything is working fine and finally we will delivered the software to the customer.
+When customer install the software in there environment the application is working for fine for some day what happens there is something which is not working in the software basically it is a failure.
+So it is a deviation is identified by end user which working with the s/w is called failure.
+
+
+Software development life cycle is process used by software industry to design,develop and test the software.
+Software development life cycle process aims to produce high quality software that meets customer expectation.
+Software development should be complete in the predefined timeframe and cost.
+SDLC consist of a detailed process that explains how to plan ,built and maintain specific s/w.
+
+Phases of SDLC
+1-Requirement Analysis
+2-Design
+3-Coding
+4-Testing
+5-Deployment
+6-Maintainance
+
+We have to collect and understand the requirement of customer.
+Normally BA's,project manafer,product manager are involve in this phase.
+They will talk to the customer and get the requirement and prepare a certain number of document like BRS/SRS.
+This gives clear picture of the scope of the entire project.
+This helps companies to finalize the necessary timeline to finish the work of the system 

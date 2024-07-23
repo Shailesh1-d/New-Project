@@ -1,0 +1,19 @@
+SPIRAL MODEL-:
+==============
+1-Spiral model overcome the drawback of waterfall model.
+2-Spiral model is iterative model
+3-We follow spiral model whenever there is dependency of modules.
+4-In every cycle new software will be released to customer.
+5-Software will be released in multiple version is called version control model.
+
+Advantage:-
+=========
+-Testing of every cycle is done before going to next phase.
+-Customer will get to use the software for every module.
+-Requirement changes are allowed after the cycle before begin the next cycle.
+
+Disadvantage:-
+===========
+-Requirement change are not allowed in between of the cycle.
+-Spiral model looks like waterfall model.
+-There is no testing in requirement and design phase.

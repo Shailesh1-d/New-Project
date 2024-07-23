@@ -1,0 +1,29 @@
+WATERFALL MODEL-:
+=================
+1-Waterfall model is one of the earliest software development model.
+2-In which the development process looks like the flow,moving step by step through the phases like     Analysis,Design,Coding,Testing,Deployment,Maintainance
+3-It is also known as Linear Sequential Model.
+4-In this model each phase must be complete before the next phase can begin and there is no overlapping in this phase.
+
+When to use:
+=========
+-Requirements are very well mannered,clear and fixed.
+-Short project
+-Project Scope
+-Expert resources are available as per need
+
+Advantage:
+========
+-Simple,easy to understand and use.
+-Easy to manager-because it is in linear process.
+-Phase are completed one at a time since the requirement changes are not allowed,the chances of finding bugs will be less.
+-Initial investment is less since the testers are hired at later stage.
+-Works well for small project where reuirement are very well understand.
+
+Disadvantage:
+==========
+-Requirement changes are not allowed.
+-If there is a defect in the reuirement that will be continue to next pahse.
+-Poor model for long and ongoing project.
+-Testing will start only after the coding phase
+-Not a good model for complex and object oriented project.

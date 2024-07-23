@@ -1,0 +1,35 @@
+V-MODEL:-
+=========
+The v-model means validation and verification.
+The v model life cycle is a sequential path of execution process.
+
+VERIFICATION:-
+=============
+1-Verification checks whether we are building righ product or not
+(To check whether the specific requirement will meet or not)
+
+Testing the project related document is called static testing technique.
+Verification does not involve code execution
+Static testing technique involves-Review,Walkthrough,Inspection
+
+
+VALIDATION:-
+============
+Validation checks whether we are building the product right or not.
+Validation involves the actual testing.
+Validation takes place after verification is done.
+Dynamic testing technique involves-Unit testing,Integration testing,System testing,UAT
+
+Advantage:-
+=========
+1-Simple,easy to understand and use.
+2-Highly desciplined model and phases are completed one at a time.
+3-Works well for small project where requirements are very well understand.
+4-Easy to manage due to rigidity of the model.
+5-Each phase has a specific deliverables and a review process.
+
+Disadvantage:-
+===========
+1-Not suitable for complex and object oriented project.
+2-Poor model for complex and ongoing project.
+3-Not suitable for the project where requirements are at a moderate to high risk of changing.
